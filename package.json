@@ -1,8 +1,8 @@
 {
-  "name": "node-cli-demo",
-  "version": "1.0.1",
+  "name": "mainto-vue",
+  "version": "1.0.0",
   "description": "",
-  "main": "hp.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node scripts/index.js"
@@ -25,5 +25,13 @@
     "babel-eslint": "^10.0.3",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "babel-preset-latest-node": "^3.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenfangcao/v.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wenfangcao/v/issues"
+  },
+  "homepage": "https://github.com/wenfangcao/v#readme"
 }
