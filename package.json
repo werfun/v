@@ -1,0 +1,24 @@
+{
+  "name": "node-cli-demo",
+  "version": "1.0.1",
+  "description": "",
+  "main": "hp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "v": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^3.0.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.0.3",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-preset-latest-node": "^3.2.1"
+  }
+}
