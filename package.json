@@ -9,6 +9,7 @@
   },
   "author": "",
   "license": "ISC",
+  "Keywords": "vue",
   "bin": {
     "v": "./bin/index.js"
   },
